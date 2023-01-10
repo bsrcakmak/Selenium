@@ -27,11 +27,5 @@ public class C01_RelativeLocators {
         BerlinWebElement.click();
 
 
-
-
-
-
-
-
     }
 }
